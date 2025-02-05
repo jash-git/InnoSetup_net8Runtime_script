@@ -1,0 +1,1 @@
+InnoSetup撰寫偵測net8Runtime是否安裝/下載與安裝的安裝程序(InnoSetupUnicode_net8Runtime)
